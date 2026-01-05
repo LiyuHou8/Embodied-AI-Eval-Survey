@@ -16,7 +16,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## Table of Contents
 
 - [News and Updates](#news-and-updates)
-- [Embodied AI Eval Survey](#Embodied-AI-Eval-Survey)
+- [Embodied AI Eval Survey](#Embodied-Eval-Survey)
   - [Natural language processing](#natural-language-processing)
   - [Robustness, ethics, biases, and trustworthiness](#robustness-ethics-biases-and-trustworthiness)
   - [Social science](#social-science)
@@ -34,7 +34,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 
-## 🗺️ Embodied AI Eval Survey <a id="Embodied-AI-Eval-Survey"></a>
+## 🗺️ Embodied AI Eval Survey <a id="Embodied-Eval-Survey"></a>
 The papers are organized according to our survey. The taxonomy is shown below:
 
 ![Taxonomy]([这里放入你图片的链接，你可以先把图片上传到仓库里，然后复制链接填在这里])
