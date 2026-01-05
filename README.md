@@ -136,7 +136,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 
 
 ## 🤝 Contributing[未修改] <a id="contributing"></a> 
-We welcome contributions to LLM-eval-survey! If you'd like to contribute, please follow these steps:
+We welcome contributions to Embodied-AI-Eval-Survey! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
 Create a new branch with your changes.
