@@ -132,43 +132,77 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 
 ### Task Planning and Decision-Making <a id="Task-Planning-and-Decision-Making"></a>
 #### Long-Horizon Dependency and Episodic Memory
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+1. Mini-behavior: A procedurally generated benchmark for long-horizon decision-making in embodied ai. Emily Jin et al. arXiv 2023. [[paper](LINK)]
+2. Behavior: Benchmark for everyday household activities in virtual, interactive, and ecological environments. Sanjana Srivastava et al. Conference on robot learning 2022. [[paper](LINK)]
+3. Behavior-1k: A human-centered, embodied ai benchmark with 1,000 everyday activities and realistic simulation. Chengshu Li et al. arXiv 2024. [[paper](LINK)]
+4. ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making. Liu Dai et al. arXiv 2025. [[paper](LINK)]
+5. Cookbench: A long-horizon embodied planning benchmark for complex cooking scenarios. Muzhen Cai et al. arXiv 2025. [[paper](LINK)]
+6. Vlabench: A large-scale benchmark for language-conditioned robotics manipulation with long-horizon reasoning tasks. Shiduo Zhang et al. ICCV 2025. [[paper](LINK)]
+7. Actplan-1k: Benchmarking the procedural planning ability of visual language models in household activities. Ying Su et al. EMNLP 2024. [[paper](LINK)]
+8. Egoplan-bench: Benchmarking multimodal large language models for human-level planning. Yi Chen et al. arXiv 2023. [[paper](LINK)]
+9. Videgothink: Assessing egocentric video understanding capabilities for embodied ai. Sijie Cheng et al. arXiv 2024. [[paper](LINK)]
+10. Bear: Benchmarking and enhancing multimodal language models for atomic embodied capabilities. Yu Qi et al. arXiv 2025. [[paper](LINK)]
+11. Lvbench: An extreme long video understanding benchmark. Weihan Wang et al. ICCV 2025. [[paper](LINK)]
+12. X-lebench: A benchmark for extremely long egocentric video understanding. Wenqi Zhou et al. arXiv 2025. [[paper](LINK)]
+13. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents. Karmesh Yadav et al. arXiv 2025. [[paper](LINK)]
+14. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](LINK)]
+15. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](LINK)]
+16. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](LINK)]
 
 #### Planning Grounding and the Execution Gap
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
+1. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](LINK)]
+2. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](LINK)]
+3. The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied ai. Chuang Gan et al. 2022 International conference on robotics and automation (ICRA) 2022. [[paper](LINK)]
+4. Arnold: A benchmark for language-grounded task learning with continuous states in realistic 3d scenes. Ran Gong et al. ICCV 2023. [[paper](LINK)]
+5. EMIF-Bench: A Benchmark for Embodied Multi-Modal Instruction Following. Qin Yixin et al. 2024 21st International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP) 2024. [[paper](LINK)]
+6. Pca-bench: Evaluating multimodal large language models in perception-cognition-action chain. Liang Chen et al. arXiv 2024. [[paper](LINK)]
+7. Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask agi. Kaining Ying et al. arXiv 2024. [[paper](LINK)]
+8. Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond. Liang Chen et al. arXiv 2023. [[paper](LINK)]
+9. A control-centric benchmark for video prediction. Stephen Tian et al. arXiv 2023. [[paper](LINK)]
+10. Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain. Yulin Luo et al. arXiv 2025. [[paper](LINK)]
+11. Mfe-etp: A comprehensive evaluation benchmark for multi-modal foundation models on embodied task planning. Min Zhang et al. arXiv 2024. [[paper](LINK)]
+12. Mpcc: A novel benchmark for multimodal planning with complex constraints in multimodal large language models. Yiyan Ji et al. Proceedings of the 33rd ACM International Conference on Multimedia 2025. [[paper](LINK)]
+13. PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly. Liang Ma et al. arXiv 2025. [[paper](LINK)]
+14. MAP-THOR: Benchmarking Long-Horizon Multi-Agent Planning Frameworks in Partially Observable Environments. Siddharth Nayak et al. Venue 202X. [[paper](LINK)]
+15. RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model. Mingtong Dai et al. arXiv 2025. [[paper](LINK)]
 
 #### Dynamic Adaptation and Closed-Loop Correction
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-
+1. Mind and motion aligned: a joint evaluation ISAACSIM benchmark for task planning and low-level policies in mobile manipulation. Nikita Kachaev et al. arXiv 2025. [[paper](LINK)]
+2. The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied ai. Chuang Gan et al. 2022 International conference on robotics and automation (ICRA) 2022. [[paper](LINK)]
+3. Muep: A multimodal benchmark for embodied planning with foundation models [c]. Kanxue Li et al. Intemational Joint Conferences on Artificial Intelligence. IJCAI 2024. [[paper](LINK)]
+4. Lota-bench: Benchmarking language-oriented task planners for embodied agents. Jae-Woo Choi et al. arXiv 2024. [[paper](LINK)]
+5. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](LINK)]
+6. Towards autonomous micromobility through scalable urban simulation. Wayne Wu et al. CVPR 2025. [[paper](LINK)]
+7. Beyond the destination: A novel benchmark for exploration-aware embodied question answering. Kaixuan Jiang et al. arXiv 2025. [[paper](LINK)]
+8. ViRectify:A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models. Xusen Hei et al. arXiv 2025. [[paper](LINK)]
+9. EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments. Dongping Li et al. arXiv 2025. [[paper](LINK)]
+10. Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots. Boyu Li et al. arXiv 2025. [[paper](LINK)]
+11. FOSSIL: Harnessing Feedback on Suboptimal Samples for Data-Efficient Generalisation with Imitation Learning for Embodied Vision-and-Language Tasks. Sabrina McCallum et al. ACL 2025. [[paper](LINK)]
+12. ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making. Liu Dai et al. arXiv 2025. [[paper](LINK)]
+13. Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion. Jin Liu et al. arXiv 2025. [[paper](LINK)]
+14. Mastering robot manipulation with multimodal prompts through pretraining and multi-task fine-tuning. Jiachen Li et al. arXiv 2023. [[paper](LINK)]
 #### Multi-Agent Collaboration and Human-Robot Trust
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
 
 ### Action Execution and Control <a id="Action-Execution-and-Control"></a>
 #### Control Policies and Physical Dynamics
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
 
 #### Object Manipulation and Navigation
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
 
 #### Collaboration and Interactive Systems
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
 
 ### Trustworthiness and Generalization <a id="Trustworthiness-and-Generalization"></a>
 #### Safety
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
 
 #### Robustness
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
+
 
 #### Generalization
-- **论文全标题**. 第一作者姓名 et al. 会议/期刊名缩写 年份. [[paper](PDF链接)] [[code](代码链接)]
 
 
 ## 📚 Where to evaluate <a id="Where-to-evaluate"></a>
