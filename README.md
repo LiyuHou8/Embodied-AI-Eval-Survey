@@ -16,7 +16,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## Table of Contents
 
 - [News and Updates](#news-and-updates)
-- [What to evaluation](#What-to-evaluation)
+- [What to evaluation]
   - [Perception and Understanding](#Perception-and-Understanding)
   - [Cognition and Reasoning](#Cognition-and-Reasoning)
   - [Task Planning and Decision-Making](#Task-Planning-and-Decision-Making)
@@ -38,7 +38,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 
-## 📚 What to evaluation <a id="What-to-evaluation"></a>
+## 📚 What to evaluation
 
 ### Perception and Understanding <a id="Perception-and-Understanding"></a>
 
