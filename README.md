@@ -31,7 +31,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
   - [Multidimensional and Hybrid Evaluation](#Multidimensional-and-Hybrid-Evaluation)
 - [Contributing](#contributing)
 - [Citation](#citation) -->
-- [Acknowledgments](#acknowledgements)
+<!-- - [Acknowledgments](#acknowledgements) -->
 
 ---
 
