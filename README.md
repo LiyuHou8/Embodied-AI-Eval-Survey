@@ -26,11 +26,11 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
   - [Simulators](#Simulators)
   - [Datasets](#Datasets)
   - [Benchmarks](#Benchmarks)
-- [How to evaluate](#How-to-evaluate)
+<!-- - [How to evaluate](#How-to-evaluate)
   - [Core Performance Evaluation](#Core-Performance-Evaluation)
   - [Multidimensional and Hybrid Evaluation](#Multidimensional-and-Hybrid-Evaluation)
 - [Contributing](#contributing)
-- [Citation](#citation)
+- [Citation](#citation) -->
 - [Acknowledgments](#acknowledgements)
 
 ---
