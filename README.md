@@ -12,7 +12,6 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 (We recommend copying lygao25@mails.jlu.edu.cn to ensure your message reaches us.)
 
 ![结构图示例](./assets/tree-picture1.png)
-![结构图示例](./assets/jiegoutunew.pdf)
 
 ## Table of Contents
 
