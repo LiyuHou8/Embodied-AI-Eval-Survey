@@ -141,13 +141,13 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 7. Actplan-1k: Benchmarking the procedural planning ability of visual language models in household activities. Ying Su et al. EMNLP 2024. [[paper](https://aclanthology.org/2024.emnlp-main.833/)]
 8. Egoplan-bench: Benchmarking multimodal large language models for human-level planning. Yi Chen et al. arXiv 2023. [[paper](https://arxiv.org/abs/2312.06722)][[projectpage](https://chenyi99.github.io/ego_plan/)][[gitub](https://github.com/ChenYi99/EgoPlan)]
 9. Videgothink: Assessing egocentric video understanding capabilities for embodied ai. Sijie Cheng et al. arXiv 2024. [[paper](https://arxiv.org/abs/2410.11623)]
-10. Bear: Benchmarking and enhancing multimodal language models for atomic embodied capabilities. Yu Qi et al. arXiv 2025. [[paper](LINK)]
-11. Lvbench: An extreme long video understanding benchmark. Weihan Wang et al. ICCV 2025. [[paper](LINK)]
-12. X-lebench: A benchmark for extremely long egocentric video understanding. Wenqi Zhou et al. arXiv 2025. [[paper](LINK)]
-13. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents. Karmesh Yadav et al. arXiv 2025. [[paper](LINK)]
-14. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](LINK)]
-15. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](LINK)]
-16. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](LINK)]
+10. Bear: Benchmarking and enhancing multimodal language models for atomic embodied capabilities. Yu Qi et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.08759)][[projectpage](https://bear-official66.github.io/)]
+11. Lvbench: An extreme long video understanding benchmark. Weihan Wang et al. ICCV 2025. [[paper](https://arxiv.org/abs/2406.08035)]
+12. X-lebench: A benchmark for extremely long egocentric video understanding. Wenqi Zhou et al. arXiv 2025. [[paper](https://arxiv.org/abs/2501.06835)][[code](https://github.com/X-Intelligence-Labs/X-LeBench)]
+13. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents. Karmesh Yadav et al. arXiv 2025. [[paper](https://arxiv.org/abs/2506.15635)][[projectpage](https://findingdory-benchmark.github.io/)]
+14. GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models. Qinghongbing Xie et al. arXiv 2025. [[paper](https://arxiv.org/abs/2510.07791)][[code&benchmark](https://github.com/X-Luffy/GTR-Bench)]
+15. Alfred: A benchmark for interpreting grounded instructions for everyday tasks. Mohit Shridhar et al. CVPR 2020. [[paper](https://arxiv.org/abs/1912.01734)][[projectpage](https://askforalfred.com/)]
+16. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. Oier Mees et al. IEEE Robotics and Automation Letters 2022. [[paper](https://arxiv.org/abs/2112.03227)][[projectpage](http://calvin.cs.uni-freiburg.de/)]
 
 #### Planning Grounding and the Execution Gap
 
