@@ -37,11 +37,10 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
-
 ## 📚 What to evaluation <a id="what-to-evaluate"></a>
+![结构图示例](./assets/jiegoutunew.png)
 
 ### Perception and Understanding <a id="perception-and-understanding"></a>
-
 #### Spatial Perception and Understanding
 1. An evaluation of the RGB-D SLAM system. Felix Endres et al. ICRA 2012. [[paper](https://ieeexplore.ieee.org/abstract/document/6225199)]
 2. A benchmark for the evaluation of RGB-D SLAM systems. Jürgen Sturm IROS 2012. [[paper](https://ieeexplore.ieee.org/abstract/document/6385773)][[data](https://cvg.cit.tum.de/data/datasets/rgbd-dataset)]
