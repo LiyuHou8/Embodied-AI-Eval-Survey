@@ -21,7 +21,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
   - [Cognition and Reasoning](#cognition-and-reasoning)
   - [Task Planning and Decision-Making](#task-planning-and-decision-making)
   - [Action Execution and Control](#action-execution-and-control)
-  - [Trustworthiness and Generalization](#trustworthiness-and-generalization)
+  - [Reliability and Generalization](#Reliability-and-generalization)
 - [Where to evaluate](#where-to-evaluate)
   - [Simulators](#simulators)
   - [Datasets](#datasets)
@@ -233,7 +233,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 9. DialNav: Multi-turn Dialog Navigation with a Remote Guide. Leekyeung Han et al. ICCV 2025. [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Han_DialNav_Multi-turn_Dialog_Navigation_with_a_Remote_Guide_ICCV_2025_paper.html)][[projectpage](https://happilee12.github.io/DialNav/)]
 10. Switch-JustDance: Benchmarking Whole Body Motion Tracking Policies Using a Commercial Console Game. Jeonghwan Kim et al. arXiv 2025. [[paper](https://arxiv.org/abs/2511.17925)]
 
-### Trustworthiness and Generalization <a id="trustworthiness-and-generalization"></a>
+### Reliability and Generalization <a id="Reliability-and-generalization"></a>
 #### Safety
 1. Embodied scene understanding for vision language models via metavqa. Weizhen Wang et al. CVPR 2025. [[paper](https://arxiv.org/abs/2501.09167)]
 [[projectpage](https://metadriverse.github.io/metavqa/)]
