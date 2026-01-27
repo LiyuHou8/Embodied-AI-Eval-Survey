@@ -38,7 +38,7 @@ Please let us know if you find out a mistake or have any suggestions by e-mail: 
 ## 📢 News and updates <a id="news-and-updates"></a>
 - **[2026-01-05]** We created this repository.
 ## 📚 What to evaluation <a id="what-to-evaluate"></a>
-![结构图示例](./assets/jiegoutunew.png)
+![结构图示例](./assets/architecture-diagram.png)
 
 ### Perception and Understanding <a id="perception-and-understanding"></a>
 #### Spatial Perception and Understanding
